@@ -18,7 +18,7 @@ Using the preset function, it is possible to control the strength of any filter 
 ## Goals
 ---
 - [ ] effectively detect still images' corner
-- [ ] get it to work with videos
+- [x] get it to work with videos
 - [ ] detect corner in video
 - [ ] detect corner underwater 
 
